@@ -9,6 +9,7 @@
 #### [机器学习-白板推导系列-指数族分布](https://www.bilibili.com/video/av33360526/)
 #### [机器学习-白板推导系列-概率图模型](https://www.bilibili.com/video/av33545406/)
 #### [机器学习-白板推导系列-EM算法](https://www.bilibili.com/video/av31906558/)
+#### [机器学习-白板推导系列-高斯混合模型](https://www.bilibili.com/video/av35183585/)
 #### [机器学习-白板推导系列-变分推断](https://www.bilibili.com/video/av32047507/)
 #### [机器学习-白板推导系列-MCMC](https://www.bilibili.com/video/av32430563/)
 #### [机器学习-白板推导系列-隐马尔可夫模型](https://www.bilibili.com/video/av32471608/)
