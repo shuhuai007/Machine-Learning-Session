@@ -19,3 +19,4 @@
 #### [机器学习-白板推导系列-线性动态系统-粒子滤波(Particle Filter)](https://www.bilibili.com/video/av32636259/)
 #### [机器学习-白板推导系列-条件随机场(CRF)](https://www.bilibili.com/video/av34444816/)
 #### [机器学习-白板推导系列-高斯网络(Gaussian Network)](https://www.bilibili.com/video/av35538998/)
+#### [机器学习-白板推导系列-贝叶斯线性回归(Bayesian Linear Regression)](https://www.bilibili.com/video/av35685274/)
