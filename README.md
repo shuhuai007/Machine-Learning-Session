@@ -21,3 +21,4 @@
 #### [机器学习-白板推导系列-高斯网络(Gaussian Network)](https://www.bilibili.com/video/av35538998/)
 #### [机器学习-白板推导系列-贝叶斯线性回归(Bayesian Linear Regression)](https://www.bilibili.com/video/av35685274/)
 #### [机器学习-白板推导系列-高斯过程回归(Gaussian Process Regression)](https://www.bilibili.com/video/av35626047/)
+#### [机器学习-白板推导系列-受限玻尔兹曼机(Restricted Boltzmann Machine)](https://www.bilibili.com/video/av37510919/)
